@@ -7,7 +7,7 @@ Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne
 l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche.
 
 # Les données :
-Voici le lien pour télécharger les photos et leurs description associées : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip
+Voici le lien pour télécharger les photos et [leurs description associées :](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Textimage+DAS+V2/Dataset+projet+pre%CC%81traitement+textes+images.zip)
 
 # La mission :
 1) Votre mission est de réaliser une première étude de faisabilité d'un moteur de classification d'articles basé sur une image et une description pour l'automatisation de
